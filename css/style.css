@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+
+.blog-div {
+    padding: 5px;
+    margin: 10px;
+    border: 10px solid blue;
+    border-radius: 20px;
+}
+
