@@ -7,6 +7,7 @@ body{
     margin: 10px;
     border: 10px solid blue;
     border-radius: 20px;
+    width: 25%;
 }
 .blog-header{
     color: yellow;
